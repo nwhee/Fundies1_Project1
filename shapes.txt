@@ -1,0 +1,4 @@
+How many sides does a triangle have?|3
+How many sides does a square have?|4
+How many sides does a pentagon have?|5
+How many sides does a hexagon have?|6
